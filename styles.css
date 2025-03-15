@@ -1,0 +1,21 @@
+.noticethis{
+    color: fuchsia;
+}
+
+#int{
+    font-size: 4em;
+    color: crimson;
+}
+
+table{
+    border: solid black 1px;
+}
+
+th, td{
+    border: solid darkgoldenrod 1px;
+}
+
+html{
+    color: white;
+    background-color: black;
+}
