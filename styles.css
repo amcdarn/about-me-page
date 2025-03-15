@@ -1,3 +1,7 @@
+body {
+    background-color: lightseagreen
+}
+
 .noticethis{
     color: fuchsia;
 }
@@ -15,7 +19,7 @@ th, td{
     border: solid darkgoldenrod 1px;
 }
 
-html{
+/* html{
     color: white;
     background-color: black;
-}
+} */
